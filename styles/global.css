@@ -76,7 +76,9 @@ nav ul li:hover {
     display: none;
 }
 
-
+header {
+    background-image: radial-gradient(white, #c8c8c8);
+}
 
 .header-bottom-side {
     display: flex;
